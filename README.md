@@ -19,19 +19,7 @@ A passionate frontend developer with a knack for crafting engaging user experien
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shihabulislam1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shihabul-islam-i/)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shihabulislam1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shihabulislam1&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shihabulislam1)  
-
-![GitHub metrics](https://metrics.lecoq.io/Shihabulislam1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Shihabulislam1)  
-
-![Profile views](https://gpvc.arturio.dev/Shihabulislam1)  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabulislam1&label=Profile%20views&color=0e75b6&style=flat" alt="shihabulislam1" /> </p>
