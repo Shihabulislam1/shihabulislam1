@@ -32,3 +32,13 @@ A passionate frontend developer with a knack for crafting engaging user experien
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shihabulislam1)  
 
 ![Profile views](https://gpvc.arturio.dev/Shihabulislam1)  
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabulislam1&label=Profile%20views&color=0e75b6&style=flat" alt="shihabulislam1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihabulislam1" alt="shihabulislam1" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihabulislam1&show_icons=true&locale=en&layout=compact" alt="shihabulislam1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihabulislam1&show_icons=true&locale=en" alt="shihabulislam1" /></p>
