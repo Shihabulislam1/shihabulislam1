@@ -1,5 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470w3xk2k51a6wfag2vpipk6x98664owmgl8ztbcek&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="I am a Front End Developer" />
+</div>
 
-![I am a Front End Developer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470w3xk2k51a6wfag2vpipk6x98664owmgl8ztbcek&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 
