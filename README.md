@@ -69,20 +69,14 @@
 ### 📈 `system_telemetry`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Shihabulislam1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shihabulislam1&theme=radical&hide_border=true&background=0d1117)
-
+  <img src="https://github-readme-stats.shion.dev/api?username=Shihabulislam1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihabulislam1&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs?username=Shihabulislam1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&layout=compact)
-
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Shihabulislam1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shihabulislam1&label=Profile%20Views&color=0e75b6&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Shihabulislam1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
